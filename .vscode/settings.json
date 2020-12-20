@@ -24,4 +24,7 @@
     ],
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 500,
+    "remote.SSH.remotePlatform": {
+        "$remote_server_name": "linux"
+      }
 }
